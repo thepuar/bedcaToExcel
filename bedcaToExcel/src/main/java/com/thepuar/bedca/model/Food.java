@@ -10,5 +10,5 @@ public class Food {
 
     private String f_id;
     private String f_ori_name;
-    private List<Valores> valores;
+    private List<Valores> foodvalue;
 }
